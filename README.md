@@ -1,2 +1,2 @@
 # drawthedude
-Simple mobile app that could get me killed.
+Simple qml application to draw South Park style characters.
